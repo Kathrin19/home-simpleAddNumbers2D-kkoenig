@@ -985,6 +985,8 @@ MonoBehaviour:
   ip_varA: {fileID: 1959691733}
   ip_varB: {fileID: 25152550}
   result: {fileID: 937200530}
+  Btn_Add: {fileID: 955772759}
+  Btn_Reset: {fileID: 1665513117}
 --- !u!4 &1451360801
 Transform:
   m_ObjectHideFlags: 0
